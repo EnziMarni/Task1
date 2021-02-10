@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+    position: relative;
+}
+
+.container{
+  position: relative;
+  left: 40%;
+  right: 40%;
+}
